@@ -1,5 +1,5 @@
 # nvim-config
-Conf NeoVIm
+Configure NeoVIm
 
 ## Note
 * Install nerd fonts
